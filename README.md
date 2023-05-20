@@ -4,7 +4,7 @@ Esse é um projeto guiado feito para aprender as bases do HTML, CSS e Javascript
 
 ## Screenshot
 
-![](./src/images/capa_projeto_pokedex.jpeg)
+![](./src/images/capa-projeto-pokedex.jpeg)
 
 ## Construído com
 
